@@ -13,7 +13,7 @@
 
 [data-theme="light"] {
   --background-color:rgb(255, 255, 255);
-  --background-color-offset:rgb(255 237 213)9;
+  --background-color-offset:rgb(255 237 213);
   --highlight-color: rgb(251 146 60);
   --highlight-color-offset: rgb(249 115 22);
   --contrast-color:#000000;
