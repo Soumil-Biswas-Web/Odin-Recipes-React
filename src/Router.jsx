@@ -14,5 +14,8 @@ export const router = createBrowserRouter(
             <Route path="recipies/:recipieID" element={<RecipiePage />} />
         </Route>
         
-    )
+    ),
+    {
+        basename: "/Odin-Recipes-React/", // Add your GitHub repository name here
+    }
 )

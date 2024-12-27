@@ -1,7 +1,7 @@
 const recipies = {
     "lasagna" : {
         title: "Lasagna",
-        img: "/lasagna.webp",
+        img: "/Odin-Recipes-React/lasagna.webp",
         description: "Making perfect homemade lasagna doesn’t have to be tedious. This top-rated easy lasagna recipe comes together quickly with a relatively short ingredient list.",
         ingredients: [
             "1 pound lean ground beef",
@@ -27,7 +27,7 @@ const recipies = {
     },
     "tsao_mi_fun" : {
         title: "Tsao Mi Fun",
-        img: "/tsao_mi_fun.webp",
+        img: "/Odin-Recipes-React/tsao_mi_fun.webp",
         description: "My mom's been making me tsao mi fun, in Mandarin, or tsa bi whun, in Taiwanese, since I was a little girl. Tsa bi whun literally translates to 'fried rice noodles'. You'll most likely find all the ingredients at your local supermarket except for the five spice powder, dried Chinese black mushrooms and rice vermicelli which can be found at your local Asian food mart. All the measurements here are pretty much to taste, some people like more pork, some less, some more soy sauce, some less, etc.",
         ingredients: [
             "½ pound thinly sliced pork loin",
@@ -55,7 +55,7 @@ const recipies = {
     },
     "yakisoba_chicken" : {
         title: "Yakisoba Chicken",
-        img: "/yakisoba_chicken.webp",
+        img: "/Odin-Recipes-React/yakisoba_chicken.webp",
         description: "Japanese buckwheat flour noodles with chicken at their best! Noodles can be found in an Asian foods market.",
         ingredients: [
             "½ teaspoon sesame oil",

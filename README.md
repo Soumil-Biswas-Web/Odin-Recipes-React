@@ -34,10 +34,8 @@ After you're done editing / working, it is time to make a production build so yo
 If you wish to  host your website using GitHub pages like in this Project:
 
 1. Firstly, craete a [build](#building-your-website) using `npm run build`.
-2. Create a new `gh-pages` repository by using `git branch gh-pages`
-3. Add the `dist` folder we created using `git add dist -f`. Commit using `git commit -m "Deployment commit"`
-4. Finally, use `npm run pages` to push it to the `gh-pages` repository.
-5. Finally, [follow the steps here.](https://pages.github.com/)
+2. Run `npm run deploy` to deploy the app.
+3. Once it says `Published` in the terminal, the app will be live in the `gh-pages` branch of the repository.
 
 # React + Vite
 
